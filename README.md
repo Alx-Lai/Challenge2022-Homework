@@ -57,7 +57,7 @@ homework
 
 
 * 作業流程：
-    1. Fork [這個作業](https://github.com/ktpss95112/Challenge2020-Homework) 然後 clone 到你的電腦，開新的 branch 叫作 new_feature。做完作業之後把 new_feature merge 回 master。
+    1. Fork [這個作業](https://github.com/Alx-Lai/Challenge2022-Homework) 然後 clone 到你的電腦，開新的 branch 叫作 new_feature。做完作業之後把 new_feature merge 回 master。
     2. 先看懂 code （沒有很多）（這份 code 是化簡了去年的 code，所以看懂了的話會幫助你之後去看去年 code 更細節的部份）。如果你真的完全看不懂 Pygame 的話，強烈建議先花兩個小時跟著 [這個 tutorial](https://nerdparadise.com/programming/pygame/part1) 走過一遍。
     3. 改 `Model.py` 加上玩家的碰撞判斷
     4. 改 `Model.py` 加上攻受交換的功能
